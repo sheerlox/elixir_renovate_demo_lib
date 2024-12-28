@@ -32,7 +32,9 @@
       "matchPackagePatterns": ["*"],
       "matchManagers": ["mix"],
       "semanticCommitType": "build",
-      "semanticCommitScope": "deps"
+      "semanticCommitScope": "deps",
+      // restoring the default schedule
+      "schedule": "at any time"
     }
   ]
 }
