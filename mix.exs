@@ -31,7 +31,7 @@ defmodule ElixirRenovateDemoLib.MixProject do
     [
       {:dialyxir, "== 1.4.3", only: [:dev, :test], runtime: false},
       {:spark, "~> 2.1 and >= 2.2.29"},
-      {:splode, "~> 0.2 and <= 0.2.6"},
+      {:splode, "<= 0.2.7"},
       {:plug_crypto, "~> 1.2 or ~> 2.0"}
     ]
   end
