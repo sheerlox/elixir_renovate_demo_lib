@@ -29,7 +29,9 @@ defmodule ElixirRenovateDemoLib.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:dialyxir, "== 1.4.3", only: [:dev, :test], runtime: false}
+      {:dialyxir, "== 1.4.3", only: [:dev, :test], runtime: false},
+      {:spark, "~> 2.1 and >= 2.2.29"},
+      {:plug_crypto, "~> 1.2 or ~> 2.0"}
     ]
   end
 end
