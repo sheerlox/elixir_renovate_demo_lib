@@ -9,5 +9,6 @@
   "sourceror": {:hex, :sourceror, "1.7.1", "599d78f4cc2be7d55c9c4fd0a8d772fd0478e3a50e726697c20d13d02aa056d4", [:mix], [], "hexpm", "cd6f268fe29fa00afbc535e215158680a0662b357dc784646d7dff28ac65a0fc"},
   "spark": {:hex, :spark, "2.2.29", "a52733ff72b05a674e48d3ca7a4172fe7bec81e9116069da8b4db19030d581d9", [:mix], [{:igniter, ">= 0.3.36 and < 1.0.0-0", [hex: :igniter, repo: "hexpm", optional: false]}, {:jason, "~> 1.4", [hex: :jason, repo: "hexpm", optional: false]}, {:sourceror, "~> 1.2", [hex: :sourceror, repo: "hexpm", optional: false]}], "hexpm", "111a0dadbb27537c7629bc03ac56fcab15056ab0b9ad985084b9adcdb48836c8"},
   "spitfire": {:hex, :spitfire, "0.1.3", "7ea0f544005dfbe48e615ed90250c9a271bfe126914012023fd5e4b6b82b7ec7", [:mix], [], "hexpm", "d53b5107bcff526a05c5bb54c95e77b36834550affd5830c9f58760e8c543657"},
+  "splode": {:hex, :splode, "0.2.6", "40721b5994dcf73c4f416e53fadfa9871505bc4652842a3d65a4bfa5835e136b", [:mix], [], "hexpm", "ca3916f55ee99ef4d0c039bd6dba8b4858ff0d65ecb20f5152e4dd1839432f5e"},
   "text_diff": {:hex, :text_diff, "0.1.0", "1caf3175e11a53a9a139bc9339bd607c47b9e376b073d4571c031913317fecaa", [:mix], [], "hexpm", "d1ffaaecab338e49357b6daa82e435f877e0649041ace7755583a0ea3362dbd7"},
 }
