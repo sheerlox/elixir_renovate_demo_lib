@@ -9,11 +9,6 @@
     "github>insurgent-lab/.github//renovate/base",
   ],
 
-  /**
-   * Enable the mix manager (which is deactivated by my base config).
-   */
-  "mix": { "enabled": true },
-
   "packageRules": [
     /**
      * =========================================
