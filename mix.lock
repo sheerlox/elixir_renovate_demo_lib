@@ -3,5 +3,5 @@
   "erlex": {:hex, :erlex, "0.2.8", "cd8116f20f3c0afe376d1e8d1f0ae2452337729f68be016ea544a72f767d9c12", [:mix], [], "hexpm", "9d66ff9fedf69e49dc3fd12831e12a8a37b76f8651dd21cd45fcf5561a8a7590"},
   "plug_crypto": {:hex, :plug_crypto, "2.1.1", "19bda8184399cb24afa10be734f84a16ea0a2bc65054e23a62bb10f06bc89491", [:mix], [], "hexpm", "6470bce6ffe41c8bd497612ffde1a7e4af67f36a15eea5f921af71cf3e11247c"},
   "spark": {:hex, :spark, "2.4.0", "f93d3ae6b5f3004e956d52f359fa40670366685447631bc7c058f4fbf250ebf3", [:mix], [{:igniter, ">= 0.3.64 and < 1.0.0-0", [hex: :igniter, repo: "hexpm", optional: true]}, {:jason, "~> 1.4", [hex: :jason, repo: "hexpm", optional: true]}, {:sourceror, "~> 1.2", [hex: :sourceror, repo: "hexpm", optional: true]}], "hexpm", "4e5185f5737cd987bb9ef377ae3462a55b8312f5007c2bc4ad6e850d14ac0111"},
-  "splode": {:hex, :splode, "0.2.8", "289d4eec13e7a83061bc44827877eb4c575e1fdf198bd1a9c6449f9b64805059", [:mix], [], "hexpm", "dbe92fa526589416435e12203b56db1f74c834d207bc474016cedf930d987284"},
+  "splode": {:hex, :splode, "0.3.3", "420917ee2373c5db8462417ea6faa8cbeb8deec7b18ae5dd2fa07c67f883f25a", [:mix], [], "hexpm", "3f98c7799ec8960f816b4ccc5cc6a5d2b72a20ad3f8fff9199fb530194ad9f50"},
 }
